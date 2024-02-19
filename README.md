@@ -1,2 +1,5 @@
 # Startup-resourses
-a collection of videos,lectures or even books that have personally benefited me 
+
+
+## playlists:
+> (startup school)[https://www.youtube.com/playlist?list=PLQ-uHSnFig5M9fW16o2l35jrfdsxGknNB]
